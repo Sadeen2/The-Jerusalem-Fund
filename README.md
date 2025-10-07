@@ -41,6 +41,7 @@ npm install
 # Start local development server
 npm run dev
 
+```
 ---
 
 ##🎨 Based on Figma Design  

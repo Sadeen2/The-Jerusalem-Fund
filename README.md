@@ -43,12 +43,12 @@ npm run dev
 
 ---
 
-🎨 Based on Figma Design  
+##🎨 Based on Figma Design  
 🔗 [View Design on Figma](https://www.figma.com/design/wutwQ8hFDh01h2Zg2NeeGQ/The-Jerusalem-Fund)
 
 ---
 
-👩‍💻 Author
+##👩‍💻 Author
 
 Sadeen Ryahi
 💡 Front-End Developer | Vue.js | Passionate about design & web development

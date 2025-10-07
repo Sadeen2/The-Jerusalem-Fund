@@ -1,5 +1,42 @@
-# Vue 3 + Vite
+# 🌍 The Jerusalem Fund Website
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project is a **Vue 3 + Vite** website that showcases the mission, activities, and cultural programs of **The Jerusalem Fund** organization.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## 🏠 Current Progress
+✅ **Home Page** completed — includes:
+- Top bar and responsive navigation bar  
+- Hero section with background image and overlay  
+- About & impact cards  
+- Article section with featured image  
+- Blog section (main post + cards grid)  
+- Hope for Palestine banner  
+- Upcoming events section  
+- What We Do section  
+- Footer  
+
+🚧 **Next steps**:
+- Add **About Page**, **Events Page**, **Blog Page**, and **Contact Page**.  
+- Implement **Header.vue** and **Footer.vue** components for all pages.  
+- Connect content dynamically in future versions.
+
+---
+
+## ⚙️ Technologies Used
+- **Vue 3** (Composition API)
+- **Vite** (development & build tool)
+- **HTML5**, **CSS3**, **JavaScript (ES6)**
+- **Font Awesome** (icons)
+- **Responsive design**
+
+---
+
+## 🚀 Run Locally
+
+```bash
+# Install dependencies
+npm install
+
+# Start local development server
+npm run dev

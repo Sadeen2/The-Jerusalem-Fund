@@ -40,3 +40,16 @@ npm install
 
 # Start local development server
 npm run dev
+
+---
+
+🎨 Based on Figma Design  
+🔗 [View Design on Figma](https://www.figma.com/design/wutwQ8hFDh01h2Zg2NeeGQ/The-Jerusalem-Fund)
+
+---
+
+👩‍💻 Author
+
+Sadeen Ryahi
+💡 Front-End Developer | Vue.js | Passionate about design & web development
+🔗 https://www.linkedin.com/in/sadeen-ryahi-ce/

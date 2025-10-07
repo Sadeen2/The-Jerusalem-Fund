@@ -1,0 +1,147 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+/* Top gold bar */
+.top-bar {
+  background-color: #d4a017;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 50px;
+  font-size: 0.95rem;
+}
+
+.top-bar i {
+  margin-right: 6px;
+}
+
+.social a {
+  color: black;
+  margin-left: 15px;
+  font-size: 1.1rem;
+  transition: 0.3s;
+}
+
+.social a:hover {
+  color: white;
+}
+
+/* Navbar */
+.navbar {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 60px;
+  border-bottom: 1px solid #ddd;
+}
+
+.logo img {
+  height: 55px;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  gap: 25px;
+}
+
+.navbar ul li a {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.navbar ul li a:hover {
+  color: #d4a017;
+}
+
+.search-icon i {
+  font-size: 1.2rem;
+  color: black;
+  background-color: white;
+  border-radius: 50%;
+  padding: 8px;
+  border: 1px solid black;
+  transition: 0.3s;
+}
+
+.search-icon i:hover {
+  background-color: #d4a017;
+  color: white;
+}
+
+/* Hero Section */
+.hero {
+  position: relative;
+  background: url("https://www.touristisrael.com/wp-content/uploads/2020/02/Temple-Mount-Copy-1-scaled-1.jpg")
+    center/cover no-repeat;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  color: white;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 700px;
+  padding: 20px;
+}
+
+.hero-content h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.hero-content p {
+  font-size: 1.1rem;
+  color: #ddd;
+  line-height: 1.6;
+}
+
+.side-buttons {
+  position: absolute;
+  top: 40%;
+  left: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  z-index: 3;
+}
+
+.side-buttons button {
+  background-color: #d4a017;
+  border: none;
+  color: white;
+  font-weight: 600;
+  padding: 10px 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.side-buttons button:hover {
+  background-color: #b98c12;
+}

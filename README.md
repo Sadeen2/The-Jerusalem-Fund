@@ -6,7 +6,7 @@ This project is a **Vue 3 + Vite** website that highlights the mission, history,
 
 ## 🏗️ Current Progress
 
-✅ **Home Page** — fully completed, featuring:
+✅ **Home Page** — fully completed, featuring:  
 - Top bar and responsive navigation bar  
 - Hero section with overlay and CTA buttons  
 - About & impact cards  
@@ -17,15 +17,21 @@ This project is a **Vue 3 + Vite** website that highlights the mission, history,
 - What We Do section  
 - Footer with contact and social links  
 
-✅ **Who We Are Page** — newly added:
+✅ **Who We Are Page** — completed:  
 - Header and breadcrumb  
-- “Our Mission” and “Our History” sections with images  
+- “Our Mission” and “Our Values” sections with visuals  
 - Board of Directors & Meet Our Staff sections  
 - Integrated `Header.vue` and `Footer.vue` components  
 
-🚧 **Next Steps:**
+✅ **History Page** — newly added:  
+- Breadcrumb header (`The Jerusalem Fund - About Us - History`)  
+- Founder card for *Hisham Sharabi* with overlay text  
+- Full organizational history content  
+- Modern, responsive layout  
+
+🚧 **Next Steps:**  
 - Build **Events**, **Blog**, and **Contact** pages  
-- Enhance responsiveness for mobile & tablet layouts  
+- Improve responsiveness for tablet & mobile  
 - Integrate dynamic content (API or CMS)
 
 ---

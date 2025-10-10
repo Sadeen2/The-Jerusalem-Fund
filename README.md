@@ -1,40 +1,54 @@
 # 🌍 The Jerusalem Fund Website
 
-This project is a **Vue 3 + Vite** website that showcases the mission, activities, and cultural programs of **The Jerusalem Fund** organization.
+This project is a **Vue 3 + Vite** website that highlights the mission, history, and cultural initiatives of **The Jerusalem Fund** — a non-profit organization dedicated to education, culture, and humanitarian development for Palestine.
 
 ---
 
-## 🏠 Current Progress
-✅ **Home Page** completed — includes:
+## 🏗️ Current Progress
+
+✅ **Home Page** — fully completed, featuring:
 - Top bar and responsive navigation bar  
-- Hero section with background image and overlay  
+- Hero section with overlay and CTA buttons  
 - About & impact cards  
-- Article section with featured image  
-- Blog section (main post + cards grid)  
+- Featured article section  
+- Blog section (main post + grid of articles)  
 - Hope for Palestine banner  
 - Upcoming events section  
 - What We Do section  
-- Footer  
+- Footer with contact and social links  
 
-🚧 **Next steps**:
-- Add **About Page**, **Events Page**, **Blog Page**, and **Contact Page**.  
-- Implement **Header.vue** and **Footer.vue** components for all pages.  
-- Connect content dynamically in future versions.
+✅ **Who We Are Page** — newly added:
+- Header and breadcrumb  
+- “Our Mission” and “Our History” sections with images  
+- Board of Directors & Meet Our Staff sections  
+- Integrated `Header.vue` and `Footer.vue` components  
+
+🚧 **Next Steps:**
+- Build **Events**, **Blog**, and **Contact** pages  
+- Enhance responsiveness for mobile & tablet layouts  
+- Integrate dynamic content (API or CMS)
 
 ---
 
 ## ⚙️ Technologies Used
-- **Vue 3** (Composition API)
-- **Vite** (development & build tool)
-- **HTML5**, **CSS3**, **JavaScript (ES6)**
-- **Font Awesome** (icons)
-- **Responsive design**
+
+- 🧩 **Vue 3** (Composition API)  
+- ⚡ **Vite** (Fast development & build tool)  
+- 🎨 **HTML5**, **CSS3**, **JavaScript (ES6)**  
+- 🖼️ **Font Awesome** (Icons)  
+- 📱 **Responsive Layouts**  
 
 ---
 
 ## 🚀 Run Locally
 
 ```bash
+# Clone the repository
+git clone https://github.com/Sadeen2/The-Jerusalem-Fund.git
+
+# Navigate to project folder
+cd The-Jerusalem-Fund
+
 # Install dependencies
 npm install
 

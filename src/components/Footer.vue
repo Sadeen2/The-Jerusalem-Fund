@@ -19,7 +19,7 @@
             <div>
               <h4>WHO WE ARE</h4>
               <ul>
-                <li><a href="#">Our History</a></li>
+                <li><router-link to="/history">Our History</router-link></li>
                 <li><a href="#">Board of Directors</a></li>
                 <li><a href="#">Contact</a></li>
                 <li><a href="#">Employment</a></li>

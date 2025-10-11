@@ -23,16 +23,28 @@ This project is a **Vue 3 + Vite** website that highlights the mission, history,
 - Board of Directors & Meet Our Staff sections  
 - Integrated `Header.vue` and `Footer.vue` components  
 
-✅ **History Page** — newly added:  
+✅ **History Page** — completed:  
 - Breadcrumb header (`The Jerusalem Fund - About Us - History`)  
 - Founder card for *Hisham Sharabi* with overlay text  
 - Full organizational history content  
 - Modern, responsive layout  
 
+✅ **Board of Directors Page** — newly added:  
+- Grid layout for board member profiles  
+- Hover effect with name and title overlay  
+- Responsive structure for all screen sizes  
+
+✅ **Contact Us Page** — newly added:  
+- Two-column layout with contact info and inquiry form  
+- Contact icons using **Font Awesome**  
+- Section for **Location & Parking** with images  
+- Fully responsive and aligned with website theme  
+
 🚧 **Next Steps:**  
-- Build **Events**, **Blog**, and **Contact** pages  
-- Improve responsiveness for tablet & mobile  
-- Integrate dynamic content (API or CMS)
+- Build **Events** and **Blog** pages  
+- Enhance tablet and mobile responsiveness  
+- Connect forms to EmailJS or backend API  
+- Optimize SEO and accessibility  
 
 ---
 

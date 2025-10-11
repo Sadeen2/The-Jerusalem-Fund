@@ -28,7 +28,7 @@
         <li><a href="#">Grants</a></li>
         <li><a href="#">Blogs</a></li>
         <li><a href="#">Resource Library</a></li>
-        <li><a href="#">Contact Us</a></li>
+        <li><router-link to="/contact-us">Contact Us</router-link></li>
       </ul>
       <div class="search-icon" @click="searchClick">
         <i class="fa-solid fa-magnifying-glass"></i>

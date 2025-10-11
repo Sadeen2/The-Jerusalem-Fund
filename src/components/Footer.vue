@@ -20,8 +20,8 @@
               <h4>WHO WE ARE</h4>
               <ul>
                 <li><router-link to="/history">Our History</router-link></li>
-                <li><a href="#">Board of Directors</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><router-link to="/board-of-directors">Board of Directors</router-link></li>
+                <li><router-link to="/contact-us">Contact Us</router-link></li>
                 <li><a href="#">Employment</a></li>
               </ul>
             </div>

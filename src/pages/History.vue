@@ -2,7 +2,6 @@
   <div>
     <Header />
 
-    <!-- Breadcrumb Header (خلفية سوداء وكلمة History فقط Bold) -->
     <section class="breadcrumb-bar">
       <div class="breadcrumb-content">
         <p>The Jerusalem Fund - About Us - <strong>History</strong></p>

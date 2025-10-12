@@ -40,6 +40,26 @@ This project is a **Vue 3 + Vite** website that highlights the mission, history,
 - Section for **Location & Parking** with images  
 - Fully responsive and aligned with website theme  
 
+✅ **Employment Opportunities Page** — newly added:  
+- Job listings with title, department, and apply button  
+- Accordion for job descriptions and requirements  
+- Responsive design matching website theme  
+
+✅ **Community Development Page** — newly added:  
+- Highlighting community initiatives and projects  
+- Cards and sections for ongoing programs  
+- Images, descriptions, and call-to-action buttons  
+
+✅ **Culture Page** — newly added:  
+- Showcases cultural events and exhibitions  
+- Photo galleries and event highlights  
+- Responsive layout with hover effects  
+
+✅ **The Palestine Center Page** — newly added:  
+- Mission and vision of the center  
+- Events, programs, and publications  
+- Integrated visual sections and links  
+
 🚧 **Next Steps:**  
 - Build **Events** and **Blog** pages  
 - Enhance tablet and mobile responsiveness  

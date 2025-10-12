@@ -14,7 +14,7 @@
               Palestinian liberation.
             </p>
           </div>
-
+          
           <div class="footer-links">
             <div>
               <h4>WHO WE ARE</h4>
@@ -22,17 +22,17 @@
                 <li><router-link to="/history">Our History</router-link></li>
                 <li><router-link to="/board-of-directors">Board of Directors</router-link></li>
                 <li><router-link to="/contact-us">Contact Us</router-link></li>
-                <li><a href="#">Employment</a></li>
+                <li><router-link to="/employment">Employment</router-link></li>
               </ul>
             </div>
 
             <div>
               <h4>WHAT WE DO</h4>
               <ul>
-                <li><a href="#">Palestine Center</a></li>
+                <li><router-link to="/palestine-center">Palestine Center</router-link></li>
                 <li><a href="#">Humanitarian Link</a></li>
                 <li><a href="#">Gallery Al-Quds</a></li>
-                <li><a href="#">Grants</a></li>
+                <li><router-link to="/grants">Grants</router-link></li>
               </ul>
             </div>
 

@@ -9,8 +9,14 @@ import CommunityDevelopment from '../pages/CommunityDevelopment.vue'
 import WhatWeDo from '../pages/WhatWeDo.vue'
 import Culture from '../pages/Culture.vue'
 import Grants from '../pages/Grants.vue'
+import GrantApplication from '../pages/GrantApplication.vue'
+import Blog from '../pages/Blog.vue'
+import BlogDetails from '../pages/BlogDetails.vue'
 import PalestineCenter from '../pages/PalestineCenter.vue'
-
+import PastEvents from '../pages/PastEvents.vue'
+import Events from '../pages/Events.vue'
+import EventDetails from '../pages/EventDetails.vue'
+import MediaLibrary from '../pages/MediaLibrary.vue'
 
 
 
@@ -28,6 +34,14 @@ const routes = [
   { path: '/culture', name: 'Culture', component: Culture },
   { path: '/grants', name: 'Grants', component: Grants },
   { path: '/palestine-center', name: 'PalestineCenter', component: PalestineCenter },
+  { path: '/grant-application', name: 'GrantApplication', component: GrantApplication },
+  { path: '/blog', name: 'Blog', component: Blog },
+  { path: '/blog-details', name: 'BlogDetails', component: BlogDetails },
+  { path: '/past-events', name: 'PastEvents', component: PastEvents },
+  { path: '/events', name: 'Events', component: Events },
+  { path: '/event-details', name: 'EventDetails', component: EventDetails },
+  { path: '/media-library', name: 'MediaLibrary', component: MediaLibrary },
+  
 
 
 ]

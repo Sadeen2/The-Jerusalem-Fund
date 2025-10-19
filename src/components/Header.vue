@@ -24,10 +24,10 @@
       <ul>
         <li><router-link to="/who-we-are">Who we are</router-link></li>
         <li><router-link to="/what-we-do">What we do</router-link></li>
-        <li><a href="#">Events</a></li>
+        <li><router-link to="/events">Events</router-link></li>
         <li><router-link to="/grants">Grants</router-link></li>
-        <li><a href="#">Blogs</a></li>
-        <li><a href="#">Resource Library</a></li>
+        <li><router-link to="/blog">Blogs</router-link></li>
+        <li><router-link to="/media-library">Resource Library</router-link></li>
         <li><router-link to="/contact-us">Contact Us</router-link></li>
       </ul>
       <div class="search-icon" @click="searchClick">

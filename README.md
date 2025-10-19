@@ -1,70 +1,38 @@
 # 🌍 The Jerusalem Fund Website
 
-This project is a **Vue 3 + Vite** website that highlights the mission, history, and cultural initiatives of **The Jerusalem Fund** — a non-profit organization dedicated to education, culture, and humanitarian development for Palestine.
+A Vue 3 + Vite website showcasing the mission, history, and cultural initiatives of The Jerusalem Fund — a non-profit organization dedicated to education, culture, and humanitarian development in Palestine.
+
+🔗 [Figma Design Reference](https://www.figma.com/design/wutwQ8hFDh01h2Zg2NeeGQ/The-Jerusalem-Fund?node-id=0-1&p=f&t=xIGkcKWm9KUp7yQt-0)
 
 ---
 
 ## 🏗️ Current Progress
 
-✅ **Home Page** — fully completed, featuring:  
-- Top bar and responsive navigation bar  
-- Hero section with overlay and CTA buttons  
-- About & impact cards  
-- Featured article section  
-- Blog section (main post + grid of articles)  
-- Hope for Palestine banner  
-- Upcoming events section  
-- What We Do section  
-- Footer with contact and social links  
+This project covers the full implementation of The Jerusalem Fund's official website, including:
 
-✅ **Who We Are Page** — completed:  
-- Header and breadcrumb  
-- “Our Mission” and “Our Values” sections with visuals  
-- Board of Directors & Meet Our Staff sections  
-- Integrated `Header.vue` and `Footer.vue` components  
+Responsive Home Page with hero banner, impact cards, featured articles, events, and blog sections.
 
-✅ **History Page** — completed:  
-- Breadcrumb header (`The Jerusalem Fund - About Us - History`)  
-- Founder card for *Hisham Sharabi* with overlay text  
-- Full organizational history content  
-- Modern, responsive layout  
+About Us / Who We Are pages with mission, values, staff, and board of directors.
 
-✅ **Board of Directors Page** — newly added:  
-- Grid layout for board member profiles  
-- Hover effect with name and title overlay  
-- Responsive structure for all screen sizes  
+History page detailing the organization’s journey.
 
-✅ **Contact Us Page** — newly added:  
-- Two-column layout with contact info and inquiry form  
-- Contact icons using **Font Awesome**  
-- Section for **Location & Parking** with images  
-- Fully responsive and aligned with website theme  
+Board of Directors, Contact Us, Employment Opportunities, Community Development, Culture, and The Palestine Center pages with interactive layouts and responsive design.
 
-✅ **Employment Opportunities Page** — newly added:  
-- Job listings with title, department, and apply button  
-- Accordion for job descriptions and requirements  
-- Responsive design matching website theme  
+The website is responsive, mobile-friendly, and visually aligned with the Figma design.
 
-✅ **Community Development Page** — newly added:  
-- Highlighting community initiatives and projects  
-- Cards and sections for ongoing programs  
-- Images, descriptions, and call-to-action buttons  
+---
 
-✅ **Culture Page** — newly added:  
-- Showcases cultural events and exhibitions  
-- Photo galleries and event highlights  
-- Responsive layout with hover effects  
+## ✅ Features
 
-✅ **The Palestine Center Page** — newly added:  
-- Mission and vision of the center  
-- Events, programs, and publications  
-- Integrated visual sections and links  
+Modern, responsive Vue 3 frontend using Composition API
 
-🚧 **Next Steps:**  
-- Build **Events** and **Blog** pages  
-- Enhance tablet and mobile responsiveness  
-- Connect forms to EmailJS or backend API  
-- Optimize SEO and accessibility  
+Clean and modular component structure (Header.vue, Footer.vue, etc.)
+
+Interactive UI elements: hover effects, accordions, and cards
+
+Integration of Font Awesome icons
+
+Fully structured content pages reflecting organizational mission and programs
 
 ---
 
